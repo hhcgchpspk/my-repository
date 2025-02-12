@@ -1,2 +1,2 @@
 # 利用selenium爬取直播网站弹幕
-通过python selenium动态爬取网页(需下载chromedriver)
+通过python selenium动态爬取网页(需下载与chrome版本相同的chromedriver)
